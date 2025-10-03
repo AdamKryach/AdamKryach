@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://i.imgur.com/nkNZEtW.jpeg" alt="Welcome Banner" /></div>
+# <div align="center"><img src="" alt="Welcome Banner" /></div>
 
 <div align="center">
 
