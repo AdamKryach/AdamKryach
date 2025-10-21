@@ -2,7 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer+%26+Cyber+Security+Student;Builder+of+Websites+%7C+Tools+%7C+Apps+%7C+Games;Innovation+and+Security+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Web+Developer+%26+Cyber+Security+Student;Builder+of+Websites+%7C+Tools+%7C+Apps+%7C+Games;Innovation+and+Security+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-58A6FF?style=for-the-badge&logo=google-chrome)](https://bailo-portfolio.kesug.com)
 [![ForeverGlow Hosting](https://img.shields.io/badge/ForeverGlow-Panel-58A6FF?style=for-the-badge&logo=server)](https://panel.foreverglow.uk)
