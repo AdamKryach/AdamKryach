@@ -85,7 +85,7 @@ const AdamKryach = {
   <tr>
     <td width="100%">
       <a href="https://github.com/AdamKryach/Kryach-AutoSave">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamKryach&repo=ptero-dashboard&theme=github_dark&bg_color=0D1117&hide_border=true" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamKryach&repo=Kryach-AutoSave&theme=github_dark&bg_color=0D1117&hide_border=true" />
       </a>
     </td>
   </tr>
