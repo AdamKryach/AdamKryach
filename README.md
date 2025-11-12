@@ -72,7 +72,7 @@ const AdamKryach = {
   skills: ['Web Apps', 'Cyber Security Tools', 'Games', 'UI/UX'],
   featuredProject: 'ptero dashboard',
   hobbies: ['Development', 'Innovation', 'Building Cool Stuff'],
-  contact: 'a69kryach@gmail.com',
+  contact: 'kryach1adam@gmail.com',
   socials: ['https://instagram.com/a.k__dev']
 };
 ```
