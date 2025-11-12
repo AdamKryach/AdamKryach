@@ -32,7 +32,7 @@
       </a>
     </td>
     <td align="center" width="96">
-      <a href="mailto:a69kryach@gmail.com">
+      <a href="mailto:kryach1adam@gmail.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
       </a>
     </td>
